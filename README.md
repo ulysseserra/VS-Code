@@ -1717,8 +1717,8 @@ IOS: [Epub Reader](https://itunes.apple.com/us/app/epub-reader-reader-for-epub-f
 ---
 
 ## Autor
-
 ### [Ulysses Ferreira Serra](ulysseserra@live.com)
+
 
 ## DUVIDAS
 <a href="http://bit.ly/engineer-developer" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
