@@ -1717,7 +1717,7 @@ IOS: [Epub Reader](https://itunes.apple.com/us/app/epub-reader-reader-for-epub-f
 ---
 
 ## Autor
-### [Ulysses Ferreira Serra](ulysseserra@live.com)
+### [Ulysses Serra](ulysseserra@live.com)
 
 
 ## DUVIDAS
