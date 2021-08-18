@@ -1722,7 +1722,7 @@ IOS: [Epub Reader](https://itunes.apple.com/us/app/epub-reader-reader-for-epub-f
 
 ## DUVIDAS
 <a href="https://bit.ly/estaciotecinfor" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-<a href="http://bit.ly/deveaprender" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+<a href="http://bit.ly/deveaprender" target="_blank"><img src="https://img.shields.io/badge/Discord-2CA5E0?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 
 
 **PROIBIDO A COPIA DESSE PROJETO SEM MENCIONAR DEVIDAMENTE O AUTOR ORIGINAL** - LEI 9.610
