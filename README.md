@@ -1,3 +1,5 @@
+# VS Code: Produtividade Infinita
+
 # Contribua com o projeto
 
 Fala Dev, beleza?
@@ -8,7 +10,17 @@ Porém, para ficar tudo perfeito precisamos da ajuda de vocês e para isso, bast
 
 Quer saber como? [Aprenda a Contribuir com o projeto](como-contribuir.md)
 
-# VS Code: Produtividade Infinita
+| :placard: Vitrine.Dev |     |
+| -------------  | --- |
+| :sparkles: Nome        | **VS Code: Produtividade Infinita**
+| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :rocket: URL         | https://url-deploy.com.br
+| :fire: Desafio     | https://url-do-desafio.com.br
+
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://www.freecodecamp.org/news/content/images/size/w2000/2022/03/Cover.png#vitrinedev)
+
+## Detalhes do projeto
 
 - [VS Code: Produtividade Infinita](#vs-code-produtividade-infinita)
   - [Produtividade 200% - Iniciando no VS Code da melhor maneira](#produtividade-200---iniciando-no-vs-code-da-melhor-maneira)
